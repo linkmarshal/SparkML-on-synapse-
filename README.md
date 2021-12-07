@@ -1,19 +1,21 @@
 # SparkML-on-synapse-
 # initialize sql context
+
 from pyspark.sql import SQLContext
 
 sqlContext = SQLContext(sc)
 
 #Todo: using SQLContext to read csv and assign to dataframe
+
 df = sqlContext.read.csv('abfss://pocfsn@pocdls.dfs.core.windows.net/dbo.pocdata.csv', header=True, inferSchema= True)	
 
-#Todo:printSchema
+#Todo:drop unnecessary columns and printSchema
+
 df =df.drop('CUSTID', 'Latest_TxnDate', 'State', 'LGA', 'Account_df.printSchema()Open_Date')
 df.printSchema()
 
-df
-
 # Import all from `sql.types`
+
 from pyspark.sql.types import *
 
 # Write a custom function to convert the data type of DataFrame columns
