@@ -1,0 +1,106 @@
+CUSTID,Gender,Age_Band,State,LGA,Account_Open_Date,Tenure,Occupation,Education,Segment,Marital_Status,No_of_Accounts,GDP_in_Billions_of_USSD,Inflation,Population,txn_amount_M1,txn_vol_M1,txn_amount_M2,txn_vol_M2,txn_amount_M3,txn_vol_M3,F1,F2,Latest_TxnDate,Recency,Freq_M1,Freq_M2,F3,CHURN
+1,M,21 - 31,Enugu,Igbo-Eze North,2021-06-02 00:00:00,3 - 6 Months,Data Analyst,BSc,Mass Market,Single,4,4396,12.4,4411119,0,0,1501768,3,473686,2,-1501768,D,2021-11-10 00:00:00,A,no usage,poor,A,Yes
+2,F,16 - 21,Kogi,Ijumu,2018-11-08 00:00:00,Above 24 Months,Nurse,PhD,Mass Market,Single,1,4642,12.56,5197581,0,0,0,0,236270,2,0,B,2021-08-12 00:00:00,C,no usage,no usage,A,Yes
+3,F,51 - 65,Osun,Obokun,2007-05-02 00:00:00,Above 24 Months,Lawyer,MSc,Mass Market,Married,3,7280,12.82,4705589,1962148,1,257853,4,3348545,6,1704295,A,2021-12-03 00:00:00,A,poor,light,B,No
+4,F,31 - 41,Kwara ,Ifelodun,1997-06-29 00:00:00,Above 24 Months,Nurse,HND,Mass Market,Single,4,3841,18.120000000000001,3192893,44848,4,1297270,6,535465,1,-1252422,D,2021-11-27 00:00:00,A,light,light,B,No
+5,F,31 - 41,Delta ,Sapele,2027-01-05 00:00:00,Below 3 Months,Data Engineer,MSc,Mass Market,Married,2,16749,13.710000000000001,5663362,1126246,9,242687,1,1528762,3,883559,A,2021-12-04 00:00:00,A,moderate,poor,A,No
+6,M,31 - 41,Kaduna ,Sanga,2000-06-29 00:00:00,Above 24 Months,Mechanical Engineer,BSc,Mass Market,Married,2,10334,18.170000000000002,8252366,44354,4,4694,1,261403,7,39660,A,2021-12-05 00:00:00,A,light,poor,A,No
+7,F,31 - 41,Sokoto,Bodinga,2017-08-01 00:00:00,Above 24 Months,Accountant,HND,Mass Market,Single,1,4818,14.890000000000001,4998090,1895213,5,1630659,6,224212,7,264554,B,2021-11-23 00:00:00,A,light,light,B,No
+8,F,31 - 41,Kaduna ,Kaduna South,1994-04-04 00:00:00,Above 24 Months,Medical Doctor,MSc,HNI,Single,1,10334,18.170000000000002,8252366,0,0,24686,1,3529,3,-24686,D,2021-09-01 00:00:00,C,no usage,poor,A,Yes
+9,M,31 - 41,Lagos,Irepodun,2002-03-07 00:00:00,Above 24 Months,Lawyer,PhD,Mass Market,Married,3,33679,18.120000000000001,14800000,200800,5,1748076,5,42052,3,-1547276,D,2021-11-15 00:00:00,A,light,light,A,No
+10,F,31 - 41,Kano ,Albasu,2020-03-04 00:00:00,12 - 24 Months,Software Engineer,MSc,Mass Market,Married,1,12393,14.890000000000001,15076892,174446,4,41117,2,26380,3,133329,A,2021-11-30 00:00:00,A,light,poor,A,No
+11,F,31 - 41,Kogi ,Ijumu,1990-04-19 00:00:00,Above 24 Months,Pharmacist,BSc,Mass Market,Single,4,4642,12.56,5197581,1072038,5,2851747,5,3264,3,-1779709,C,2021-11-15 00:00:00,A,light,light,A,No
+12,M,31 - 41,Adamawa ,Demsa,2018-02-04 00:00:00,Above 24 Months,Banker,PhD,HNI,Married,1,4582,16.469999999999999,4248436,469113,5,3047,1,41,1,466066,A,2021-11-25 00:00:00,A,light,poor,A,No
+13,M,31 - 41,Bauchi ,Bogoro,1996-03-03 00:00:00,Above 24 Months,Data Analyst,BSc,Mass Market,Married,3,4713,15.75,6537314,155364,3,1225,1,177246,4,154139,A,2021-12-04 00:00:00,A,poor,poor,A,No
+14,M,31 - 41,Osun,Ilesah east,2003-02-02 00:00:00,Above 24 Months,Accountant,BSc,Mass Market,Single,4,7280,12.82,4705589,50979,7,2133188,7,268789,5,-2082209,D,2021-11-29 00:00:00,A,light,light,A,No
+15,M,31 - 41,Ogun ,Ewekoro,1999-08-09 00:00:00,Above 24 Months,Medical Doctor,MSc,Mass Market,Married,4,10470,17.329999999999998,5217716,54630,1,179869,3,1700420,4,-125239,C,2021-12-02 00:00:00,A,poor,poor,B,No
+16,M,31 - 41,Niger,Bida,1995-07-28 00:00:00,Above 24 Months,Chemical Engineer,MSc,Mass Market,Married,4,6002,13.710000000000001,5556247,1087170,4,28237,4,2829565,4,1058933,A,2021-11-27 00:00:00,A,light,light,A,No
+17,F,31 - 41,Lagos,Irepodun,1993-01-02 00:00:00,Above 24 Months,Medical Doctor,MSc,Mass Market,Single,2,33679,18.120000000000001,14800000,0,0,0,0,406055,7,0,B,2021-08-24 00:00:00,C,no usage,no usage,A,Yes
+18,F,31 - 41,Abuja,Bwari,1996-02-27 00:00:00,Above 24 Months,Lawyer,BSc,Mass Market,Single,4,5400,17.5,3564126,0,0,0,0,132231,4,0,B,2021-08-30 00:00:00,C,no usage,no usage,A,Yes
+19,M,31 - 41,Cross River ,Ikom,1993-11-23 00:00:00,Above 24 Months,Software Engineer,MSc,HNI,Married,4,9292,18.120000000000001,3866269,2481132,3,8425,2,2621,1,2472707,A,2021-11-28 00:00:00,A,poor,poor,A,No
+20,M,31 - 41,Abuja,Kuje,2016-03-05 00:00:00,Above 24 Months,Data Analyst,PhD,Mass Market,Single,1,5400,17.5,3564126,206336,4,769,2,1485132,4,205567,A,2021-12-02 00:00:00,A,light,poor,A,No
+21,F,21 - 31,Ondo ,Akure north,1992-04-09 00:00:00,Above 24 Months,Architect,MSc,HNI,Single,1,8414,12.4,4671695,2260963,4,155207,5,165529,5,2105756,A,2021-11-30 00:00:00,A,light,light,B,No
+22,M,31 - 41,Kogi ,Okene,1998-11-23 00:00:00,Above 24 Months,Medical Doctor,PhD,HNI,Married,3,4642,12.56,5197581,806,3,56153,5,77,1,-55347,D,2021-11-28 00:00:00,A,poor,light,B,No
+23,M,31 - 41,Ogun ,Abeokuta north,2026-10-02 00:00:00,Below 3 Months,Digital Marketer,HND,Mass Market,Single,4,10470,17.329999999999998,5217716,1338122,4,168404,1,1274516,8,1169718,A,2021-11-11 00:00:00,A,light,poor,A,No
+24,M,31 - 41,Lagos,Oriade,1994-10-15 00:00:00,Above 24 Months,Lecturer,BSc,Mass Market,Married,2,33679,18.120000000000001,14800000,0,0,0,0,237874,6,0,B,2021-08-30 00:00:00,C,no usage,no usage,A,Yes
+25,M,31 - 41,Kwara ,Ilorin south,2000-08-10 00:00:00,Above 24 Months,Computer Engineer,BSc,HNI,Married,1,3841,18.120000000000001,3192893,0,0,26,1,1539840,3,-26,D,2021-09-01 00:00:00,C,no usage,poor,A,Yes
+26,F,31 - 41,Abuja,Kuje,1931-07-01 00:00:00,Above 24 Months,Lecturer,PhD,Mass Market,Single,1,5400,17.5,3564126,2173635,6,152989,3,64366,5,2020646,A,2021-11-21 00:00:00,A,light,poor,A,No
+27,F,31 - 41,Zamfara ,Dungudu,2001-11-11 00:00:00,Above 24 Months,Nurse,PhD,HNI,Married,4,4123,18.170000000000002,4515427,0,0,453428,1,39658,3,-453428,D,2021-09-02 00:00:00,C,no usage,poor,A,Yes
+28,M,21 - 31,Imo ,Nkwere,1991-11-28 00:00:00,Above 24 Months,Digital Marketer,MSc,Mass Market,Married,2,14212,14.23,5408756,13086,5,179330,6,138211,6,-166244,D,2021-11-28 00:00:00,A,light,light,B,No
+29,F,31 - 41,Enugu,Aninri,2017-12-04 00:00:00,Above 24 Months,Software Engineer,BSc,Mass Market,Single,3,4396,12.4,4411119,455829,3,112306,6,24296,2,343523,A,2021-11-29 00:00:00,A,poor,light,B,No
+30,M,31 - 41,Akwa Ibom ,Abak,1997-11-07 00:00:00,Above 24 Months,Data Analyst,BSc,Mass Market,Single,2,11179,16.469999999999999,5482177,5824,3,239124,5,37897,3,-233300,D,2021-12-04 00:00:00,A,poor,light,B,No
+31,M,31 - 41,Delta ,Okpe,2016-04-04 00:00:00,Above 24 Months,Data Analyst,MSc,Mass Market,Single,4,16749,13.710000000000001,5663362,0,0,0,0,3410,3,0,B,2021-08-29 00:00:00,C,no usage,no usage,A,Yes
+32,F,31 - 41,Taraba ,Tarum,1998-03-03 00:00:00,Above 24 Months,Web developer,PhD,Mass Market,Married,1,3397,17.5,3066834,4033,2,32297,3,371509,2,-28264,D,2021-12-05 00:00:00,A,poor,poor,B,No
+33,M,31 - 41,Cross River ,Ikom,2003-04-01 00:00:00,Above 24 Months,Digital Marketer,MSc,Mass Market,Married,3,9292,18.120000000000001,3866269,5344,5,235008,2,1617471,2,-229664,D,2021-11-24 00:00:00,A,light,poor,A,No
+34,F,31 - 41,Adamawa ,Ganye,1997-11-23 00:00:00,Above 24 Months,Lecturer,MSc,Mass Market,Single,1,4582,16.469999999999999,4248436,211,2,8782,1,208282,4,-8571,D,2021-12-01 00:00:00,A,poor,poor,A,No
+35,F,31 - 41,Plateau ,Kiyom,2001-11-06 00:00:00,Above 24 Months,Digital Marketer,BSc,Mass Market,Single,4,5154,14.23,4200442,0,0,0,0,33719,6,0,B,2021-08-26 00:00:00,C,no usage,no usage,A,Yes
+36,M,31 - 41,Gombe ,Balanga,1997-08-26 00:00:00,Above 24 Months,Lawyer,PhD,Mass Market,Married,2,2501,14.210000000000001,3256962,3422,3,1043077,8,100250,3,-1039655,D,2021-11-29 00:00:00,A,poor,moderate,B,No
+37,F,31 - 41,Lagos,Ejigbo,2022-02-02 00:00:00,Below 3 Months,Web developer,MSc,Mass Market,Single,3,33679,18.120000000000001,14800000,1392593,5,15205,3,1181455,10,1377388,A,2021-12-02 00:00:00,A,light,poor,A,No
+38,F,31 - 41,Abia ,Aba south,1991-06-20 00:00:00,Above 24 Months,Pharmacist,MSc,Mass Market,Married,2,8687,17.5,3727347,835543,2,267086,3,740,2,568457,A,2021-12-02 00:00:00,A,poor,poor,B,No
+39,F,31 - 41,Zamfara ,Gummi,1990-06-28 00:00:00,Above 24 Months,Pharmacist,PhD,Mass Market,Married,3,4123,18.170000000000002,4515427,674973,4,183128,3,10809,4,491845,A,2021-11-23 00:00:00,A,light,poor,A,No
+40,F,31 - 41,Kogi ,Ajaokuta,1992-01-31 00:00:00,Above 24 Months,Pharmacist,BSc,Mass Market,Married,2,4642,12.56,5197581,72684,4,3477424,8,674861,4,-3404740,D,2021-11-14 00:00:00,A,light,moderate,B,No
+41,M,31 - 41,Cross River ,Akpabuyo,1996-04-10 00:00:00,Above 24 Months,Mechanical Engineer,PhD,Mass Market,Married,4,9292,18.120000000000001,3866269,1840060,4,3415982,4,3314862,3,-1575922,C,2021-12-04 00:00:00,A,light,light,A,No
+42,F,31 - 41,Gombe ,Gombe,2000-03-29 00:00:00,Above 24 Months,Architect,PhD,Mass Market,Single,1,2501,14.210000000000001,3256962,2298495,3,200,1,504042,5,2298295,A,2021-11-27 00:00:00,A,poor,poor,A,No
+43,F,31 - 41,Katsina ,Batsari,1999-01-22 00:00:00,Above 24 Months,Accountant,BSc,Mass Market,Married,1,6022,13.220000000000001,7831319,5875,2,345038,5,320401,2,-339163,D,2021-12-01 00:00:00,A,poor,light,B,No
+44,M,21 - 31,Bauchi,Bogoro,2025-01-02 00:00:00,Below 3 Months,Lawyer,PhD,Mass Market,Married,3,4713,15.75,6537314,1941232,5,1887604,4,861715,8,53628,B,2021-11-21 00:00:00,A,light,light,A,No
+45,M,31 - 41,Kaduna ,Kere,2005-11-04 00:00:00,Above 24 Months,Medical Doctor,BSc,Mass Market,Married,2,10334,18.170000000000002,8252366,1865814,7,1088300,6,9270,1,777514,A,2021-12-05 00:00:00,A,light,light,A,No
+46,F,31 - 41,Nassarawa ,Lafia,1995-08-05 00:00:00,Above 24 Months,Mechanical Engineer,PhD,Mass Market,Married,1,3022,12.56,2523395,370237,5,310975,5,913987,6,59262,B,2021-11-19 00:00:00,A,light,light,A,No
+47,F,31 - 41,Kebbi ,Danko,1994-04-27 00:00:00,Above 24 Months,Mechanical Engineer,BSc,Mass Market,Married,4,3290,12.4,4440050,0,0,0,0,2609,3,0,B,2021-08-31 00:00:00,C,no usage,no usage,A,Yes
+48,F,31 - 41,Ondo ,Akure north,2004-01-09 00:00:00,Above 24 Months,Lecturer,BSc,Mass Market,Married,1,8414,12.4,4671695,374592,4,52531,7,3727990,3,322061,A,2021-11-26 00:00:00,A,light,light,B,No
+49,M,31 - 41,Kaduna ,Kaduna South,1995-05-14 00:00:00,Above 24 Months,Mechanical Engineer,MSc,Mass Market,Married,1,10334,18.170000000000002,8252366,308807,3,3555,3,4169,3,305252,A,2021-11-28 00:00:00,A,poor,poor,A,No
+50,M,31 - 41,Jigawa ,Babura,1997-01-24 00:00:00,Above 24 Months,Computer Engineer,BSc,Mass Market,Married,4,2988,12.82,5828163,0,0,5779,1,0,0,-5779,D,2021-09-04 00:00:00,C,no usage,poor,A,Yes
+51,F,31 - 41,Jigawa ,Birnin-Kudu,2017-11-02 00:00:00,Above 24 Months,Chemical Engineer,MSc,Mass Market,Single,2,2988,12.82,5828163,722946,3,2423,2,695254,3,720523,A,2021-12-02 00:00:00,A,poor,poor,A,No
+52,F,31 - 41,Kwara ,Ilorin south,1996-11-02 00:00:00,Above 24 Months,Nurse,MSc,Mass Market,Married,2,3841,18.120000000000001,3192893,0,0,0,0,661628,3,0,B,2021-08-23 00:00:00,C,no usage,no usage,A,Yes
+53,M,31 - 41,Gombe ,Balanga,2014-11-04 00:00:00,Above 24 Months,Banker,MSc,Mass Market,Single,3,2501,14.210000000000001,3256962,39,1,261713,3,2355948,6,-261674,D,2021-11-25 00:00:00,A,poor,poor,B,No
+54,F,21 - 31,Benue,Gboko,2003-08-11 00:00:00,Above 24 Months,Computer Engineer,MSc,Mass Market,Single,4,6864,12.56,5741815,1963171,6,189077,4,0,0,1774094,A,2021-11-30 00:00:00,A,light,light,A,No
+55,M,21 - 31,Enugu,igbo-Eze North,2000-12-20 00:00:00,Above 24 Months,Digital Marketer,MSc,Mass Market,Married,4,4396,12.4,4411119,408944,6,173715,2,168670,4,235229,A,2021-12-04 00:00:00,A,light,poor,A,No
+56,M,31 - 41,Gombe ,Kwami,2000-02-21 00:00:00,Above 24 Months,Banker,PhD,Mass Market,Single,1,2501,14.210000000000001,3256962,210475,5,2027489,6,7146,3,-1817014,D,2021-12-03 00:00:00,A,light,light,B,No
+57,M,31 - 41,Kogi,Ajaokuta,1998-09-04 00:00:00,Above 24 Months,Mechanical Engineer,MSc,Mass Market,Married,4,4642,12.56,5197581,291530,2,2109657,4,28873,3,-1818127,D,2021-11-28 00:00:00,A,poor,light,B,No
+58,F,31 - 41,Ondo ,Okitipupa,1999-09-14 00:00:00,Above 24 Months,Lecturer,MSc,Mass Market,Married,2,8414,12.4,4671695,513756,6,1566249,8,244431,2,-1052493,C,2021-12-05 00:00:00,A,light,moderate,B,No
+59,M,31 - 41,Cross River ,Yala,1997-07-17 00:00:00,Above 24 Months,Lecturer,PhD,HNI,Single,1,9292,18.120000000000001,3866269,448389,5,163655,5,0,0,284734,A,2021-12-01 00:00:00,A,light,light,A,No
+60,M,31 - 41,Bauchi,Misau,2003-10-07 00:00:00,Above 24 Months,Architect,PhD,Mass Market,Married,3,4713,15.75,6537314,1683123,4,14996,3,2372363,5,1668127,A,2021-12-05 00:00:00,A,light,poor,A,No
+61,M,31 - 41,Plateau ,Wase,1994-06-10 00:00:00,Above 24 Months,Pharmacist,BSc,HNI,Married,1,5154,14.23,4200442,1934797,8,1287815,3,455506,3,646982,A,2021-12-01 00:00:00,A,moderate,poor,A,No
+62,M,31 - 41,Akwa Ibom ,Udung,1997-12-09 00:00:00,Above 24 Months,Banker,MSc,Mass Market,Single,3,11179,16.469999999999999,5482177,22716,6,1615965,4,181285,2,-1593249,D,2021-11-28 00:00:00,A,light,light,A,No
+63,F,21 - 31,Taraba ,Tarum,1993-01-22 00:00:00,Above 24 Months,Lawyer,BSc,Mass Market,Single,2,3397,17.5,3066834,126499,3,5049,2,726511,3,121450,A,2021-11-11 00:00:00,A,poor,poor,A,No
+64,M,31 - 41,Plateau ,Wase,1995-06-05 00:00:00,Above 24 Months,Lawyer,MSc,Mass Market,Married,1,5154,14.23,4200442,439037,5,0,0,1878911,4,439037,B,2021-12-04 00:00:00,A,light,no usage,A,No
+65,F,21 - 31,Benue,Oju,1991-11-05 00:00:00,Above 24 Months,Pharmacist,MSc,Mass Market,Married,3,6864,12.56,5741815,104,1,1404129,3,46844,6,-1404025,D,2021-12-02 00:00:00,A,poor,poor,B,No
+66,F,31 - 41,Kebbi ,Aliero,1996-02-05 00:00:00,Above 24 Months,Accountant,PhD,Mass Market,Married,1,3290,12.4,4440050,174942,3,678186,2,208466,3,-503244,C,2021-12-03 00:00:00,A,poor,poor,A,No
+67,M,31 - 41,Oyo ,Akinyele,2025-05-03 00:00:00,Below 3 Months,Nurse,BSc,Mass Market,Single,3,16121,14.210000000000001,7840864,1018024,3,243513,2,1422572,1,774511,A,2021-11-19 00:00:00,A,poor,poor,A,No
+68,F,31 - 41,Edo ,Esan central ,1999-09-12 00:00:00,Above 24 Months,Data Engineer,MSc,Mass Market,Married,4,11888,15.75,4235595,33351,4,4236,3,6735,5,29115,A,2021-11-27 00:00:00,A,light,poor,A,No
+69,F,21 - 31,Sokoto,Shagari,1992-02-11 00:00:00,Above 24 Months,Chemical Engineer,BSc,Mass Market,Single,3,4818,14.890000000000001,4998090,998346,2,223816,7,57981,6,774530,A,2021-11-08 00:00:00,A,poor,light,B,No
+70,M,31 - 41,Lagos,Boripe,1997-08-09 00:00:00,Above 24 Months,Medical Doctor,PhD,HNI,Single,2,33679,18.120000000000001,14800000,0,0,33,1,42243,3,-33,D,2021-09-02 00:00:00,C,no usage,poor,A,Yes
+71,F,31 - 41,Lagos,Ife south,1990-10-31 00:00:00,Above 24 Months,Lecturer,PhD,HNI,Married,1,33679,18.120000000000001,14800000,8727,2,949254,1,7411,4,-940527,D,2021-12-01 00:00:00,A,poor,poor,A,No
+72,F,31 - 41,Bauchi,Ganjuwa,1992-02-22 00:00:00,Above 24 Months,Nurse,PhD,Mass Market,Single,1,4713,15.75,6537314,996546,4,2049785,4,254601,7,-1053239,C,2021-12-05 00:00:00,A,light,light,A,No
+73,M,31 - 41,Benue,Konshisha,1990-12-28 00:00:00,Above 24 Months,Accountant,PhD,HNI,Single,4,6864,12.56,5741815,3446072,5,0,0,1125483,2,3446072,B,2021-11-29 00:00:00,A,light,no usage,A,No
+74,F,31 - 41,Cross River ,Ikom,2025-06-03 00:00:00,Below 3 Months,Architect,BSc,Mass Market,Married,3,9292,18.120000000000001,3866269,1345400,5,1634507,4,1591855,3,-289107,B,2021-12-02 00:00:00,A,light,light,A,No
+75,F,31 - 41,Edo ,Esan west,1992-12-16 00:00:00,Above 24 Months,Banker,MSc,HNI,Single,2,11888,15.75,4235595,1588362,7,73146,5,1432792,3,1515216,A,2021-12-05 00:00:00,A,light,light,A,No
+76,F,31 - 41,Bauchi ,Misau,1990-01-28 00:00:00,Above 24 Months,Chemical Engineer,PhD,Mass Market,Single,4,4713,15.75,6537314,0,0,0,0,109732,4,0,B,2021-08-29 00:00:00,C,no usage,no usage,A,Yes
+77,F,31 - 41,Ebonyi ,Ebonyi,1995-05-05 00:00:00,Above 24 Months,Banker,PhD,Mass Market,Single,1,2732,13.710000000000001,2880383,2436356,8,0,0,17795,1,2436356,B,2021-11-30 00:00:00,A,moderate,no usage,A,No
+78,F,31 - 41,Kogi,Okehi,1990-07-05 00:00:00,Above 24 Months,Medical Doctor,MSc,Mass Market,Single,1,4642,12.56,5197581,199354,5,29847,2,28253,2,169507,A,2021-11-24 00:00:00,A,light,poor,A,No
+79,F,31 - 41,Lagos,Lagos Island,1995-11-26 00:00:00,Above 24 Months,Architect,PhD,HNI,Single,2,33679,18.120000000000001,14800000,0,0,1601118,2,1687728,2,-1601118,D,2021-09-03 00:00:00,C,no usage,poor,A,Yes
+80,M,21 - 31,Bauchi,Tafawa,1997-01-13 00:00:00,Above 24 Months,Web developer,BSc,Mass Market,Single,4,4713,15.75,6537314,446,2,5760,3,3900463,5,-5314,D,2021-11-23 00:00:00,A,poor,poor,B,No
+81,F,31 - 41,Benue,Makurdi,2002-07-01 00:00:00,Above 24 Months,Lawyer,PhD,Mass Market,Single,1,6864,12.56,5741815,1075986,5,189859,5,18656,2,886127,A,2021-12-04 00:00:00,A,light,light,A,No
+82,F,31 - 41,Osun,Irepodun,1992-07-28 00:00:00,Above 24 Months,Accountant,BSc,Mass Market,Single,3,7280,12.82,4705589,2742302,5,236398,6,1061868,2,2505904,A,2021-11-02 00:00:00,A,light,light,B,No
+83,M,31 - 41,Bauchi,Ganjuwa,2000-08-11 00:00:00,Above 24 Months,Accountant,BSc,Mass Market,Single,3,4713,15.75,6537314,1156063,4,2549279,6,2121788,4,-1393216,C,2021-12-04 00:00:00,A,light,light,B,No
+84,F,31 - 41,Kwara ,Ifelodun,2007-12-04 00:00:00,Above 24 Months,Architect,MSc,HNI,Married,4,3841,18.120000000000001,3192893,398338,8,306050,5,1043278,8,92288,A,2021-11-26 00:00:00,A,moderate,light,A,No
+85,M,31 - 41,Ogun ,Ifo,1991-11-01 00:00:00,Above 24 Months,Web developer,PhD,Mass Market,Single,2,10470,17.329999999999998,5217716,82604,5,23557,3,2522,2,59047,A,2021-11-30 00:00:00,A,light,poor,A,No
+86,M,31 - 41,Bauchi ,Misau,1930-10-03 00:00:00,Above 24 Months,Chemical Engineer,PhD,HNI,Married,2,4713,15.75,6537314,916507,5,437119,3,5556,2,479388,A,2021-12-01 00:00:00,A,light,poor,A,No
+87,M,31 - 41,Benue,Makurdi,1997-07-13 00:00:00,Above 24 Months,Web developer,PhD,HNI,Married,3,6864,12.56,5741815,234896,4,280508,7,1818330,5,-45612,B,2021-12-02 00:00:00,A,light,light,B,No
+88,F,31 - 41,Kano ,Takai,1993-11-07 00:00:00,Above 24 Months,Accountant,PhD,HNI,Single,1,12393,14.890000000000001,15076892,292959,6,766,3,371064,5,292193,A,2021-12-04 00:00:00,A,light,poor,A,No
+89,F,31 - 41,Imo ,Njaba,1999-06-30 00:00:00,Above 24 Months,Data Analyst,MSc,Mass Market,Single,1,14212,14.23,5408756,912266,4,917822,8,8437,2,-5556,B,2021-11-10 00:00:00,A,light,moderate,B,No
+90,M,31 - 41,Kogi ,Ijumu,1995-10-04 00:00:00,Above 24 Months,Lawyer,PhD,Mass Market,Single,4,4642,12.56,5197581,101179,5,2134892,2,1636701,5,-2033713,D,2021-12-03 00:00:00,A,light,poor,A,No
+91,F,31 - 41,Katsina ,Batsari,2001-07-10 00:00:00,Above 24 Months,Web developer,PhD,Mass Market,Single,4,6022,13.220000000000001,7831319,168863,5,153129,2,17824,5,15734,B,2021-12-05 00:00:00,A,light,poor,A,No
+92,F,31 - 41,Imo ,Nkwere,2001-09-02 00:00:00,Above 24 Months,Chemical Engineer,MSc,HNI,Married,3,14212,14.23,5408756,51572,4,407853,3,0,0,-356281,D,2021-11-27 00:00:00,A,light,poor,A,No
+93,M,31 - 41,Adamawa ,Yola north,1994-12-23 00:00:00,Above 24 Months,Data Analyst,BSc,Mass Market,Married,3,4582,16.469999999999999,4248436,347700,3,205512,4,190722,3,142188,A,2021-12-03 00:00:00,A,poor,light,B,No
+94,F,31 - 41,Lagos,Irewole,1990-09-26 00:00:00,Above 24 Months,Mechanical Engineer,MSc,Mass Market,Married,3,33679,18.120000000000001,14800000,0,0,0,0,247669,3,0,B,2021-08-24 00:00:00,C,no usage,no usage,A,Yes
+95,M,31 - 41,Lagos,Irepodun,1995-05-16 00:00:00,Above 24 Months,Software Engineer,PhD,HNI,Married,3,33679,18.120000000000001,14800000,0,0,0,0,680540,7,0,B,2021-08-30 00:00:00,C,no usage,no usage,A,Yes
+96,M,31 - 41,Jigawa ,Babura,2000-03-08 00:00:00,Above 24 Months,Data Engineer,BSc,Mass Market,Married,2,2988,12.82,5828163,4200,2,20734,1,800615,4,-16534,D,2021-12-04 00:00:00,A,poor,poor,A,No
+97,F,31 - 41,Rivers,Portharcourt,2021-12-04 00:00:00,Below 3 Months,Accountant,BSc,HNI,Married,2,21073,13.220000000000001,7303924,357,2,4311,4,97624,3,-3954,D,2021-12-03 00:00:00,A,poor,light,B,No
+98,F,21 - 31,Edo ,Esan central ,2001-03-04 00:00:00,Above 24 Months,Medical Doctor,MSc,HNI,Single,1,11888,15.75,4235595,1782720,2,109667,8,98969,5,1673053,A,2021-11-29 00:00:00,A,poor,moderate,B,No
+99,F,31 - 41,Akwa Ibom ,Abak,1994-12-23 00:00:00,Above 24 Months,Software Engineer,PhD,HNI,Married,4,11179,16.469999999999999,5482177,0,0,388,1,95354,3,-388,D,2021-09-03 00:00:00,C,no usage,poor,A,Yes
+100,F,31 - 41,Oyo ,Ibadan central,1997-06-19 00:00:00,Above 24 Months,Mechanical Engineer,PhD,Mass Market,Single,3,16121,14.210000000000001,7840864,209484,5,1297801,4,5039,4,-1088317,D,2021-12-04 00:00:00,A,light,light,A,No
+101,M,21 - 31,Cross River,Ogoja,2002-05-17 00:00:00,Above 24 Months,Data Analyst,BSc,Mass Market,Single,1,9292,18.120000000000001,3866269,0,0,98970,1,661628,4,-98970,D,2022-08-29 00:00:00,A,no usage,poor,A,Yes
+103,M,31 - 41,Delta,Sapele,1999-02-19 00:00:00,Above 24 Months,Architect,BSc,Mass Market,Married,1,16749,13.710000000000001,5663362,0,0,0,0,1544,1,0,B,2022-09-13 00:00:00,A,no usage,no usage,A,Yes
+105,F,31 - 41,Lagos,Agege,2005-05-17 00:00:00,Above 24 Months,Pharmacist,MSc,Mass Market,Single,2,33679,18.120000000000001,14800000,1383987,5,361090,2,432390,1,1022897,A,2022-08-04 00:00:00,A,light,poor,A,No
+106,M,21 - 31,Enugu,Nsukka,2017-01-27 00:00:00,Above 24 Months,Web Developer,BSc,Mass Market,Single,3,4396,12.4,4411119,350495,1,387835,1,531791,2,-37340,B,2022-09-22 00:00:00,A,poor,poor,A,No
+110,F,31 - 41,Kaduna,Kaduna South,1995-01-11 00:00:00,Above 24 Months,Nurse,MSc,Mass Market,Married,1,10334,18.170000000000002,8252366,0,0,605483,3,137760,1,-605483,D,2022-08-01 00:00:00,A,no usage,poor,A,Yes
